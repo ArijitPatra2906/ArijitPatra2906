@@ -52,7 +52,7 @@ Hello , I’m a web developer who has ready to learn new technologies.
 <img src=https://img.shields.io/badge/react-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=skyblue alt=react style="margin-bottom: 5px;" />
 </a>
 <a href="/" target="_blank">
-<img src=https://img.shields.io/badge/bootstrap-%231E77B5.svg?&style=for-the-badge&logo=bootstrap&logoColor=white alt=bootstrap style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/bootstrap-violet.svg?&style=for-the-badge&logo=bootstrap&logoColor=white alt=bootstrap style="margin-bottom: 5px;" />
 </a>
 <a href="/" target="_blank">
 <img src=https://img.shields.io/badge/mongodb-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white alt=mongodb style="margin-bottom: 5px;" />
@@ -80,11 +80,11 @@ Hello , I’m a web developer who has ready to learn new technologies.
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArijitPatra2906&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArijitPatra2906&show_icons=true&count_private=true&hide_border=true&background=black" align="left" style="width: 96%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitPatra2906&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitPatra2906&hide_border=true&layout=compact" align="left" style="width: 96%" />
 
 </td></tr></table>  
 
