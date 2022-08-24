@@ -78,19 +78,14 @@ Hello , I’m a web developer who has ready to learn new technologies.
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArijitPatra2906&show_icons=true&count_private=true&hide_border=true&background=black" align="left" style="width: 92%" />
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitPatra2906&hide_border=true&layout=compact" align="left" style="width: 92%" />
-
-</td></tr></table>  
-
-<br/>  
-
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArijitPatra2906&show_icons=true&theme=radical)
   
+  
+  <br/>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ArijitPatra2906&layout=compact&theme=radical)
 
 <br/>  
 
