@@ -43,19 +43,28 @@ Hello , I’m a web developer who has ready to learn new technologies.
 <br/>  
 
 
-## Languages and Tools  
+## Some of my skills
 <div >  
 <a href="https://reactjs.org/" target="_blank">
 <img src=https://img.shields.io/badge/react-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=skyblue alt=react style="margin-bottom: 5px;" />
 </a>
-<a href="https://reactjs.org/" target="_blank">
-<img src=https://img.shields.io/badge/bootstrap-%2324292e.svg?&style=for-the-badge&logo=bootstrap&logoColor=white alt=bootstrap style="margin-bottom: 5px;" />
+<a href="/" target="_blank">
+<img src=https://img.shields.io/badge/bootstrap-%231E77B5.svg?&style=for-the-badge&logo=bootstrap&logoColor=white alt=bootstrap style="margin-bottom: 5px;" />
 </a>
-<a href="https://reactjs.org/" target="_blank">
+<a href="/" target="_blank">
 <img src=https://img.shields.io/badge/mongodb-%2324292e.svg?&style=for-the-badge&logo=mongodb&logoColor=green alt=mongodb style="margin-bottom: 5px;" />
 </a>
-<a href="https://reactjs.org/" target="_blank">
-<img src=https://img.shields.io/badge/mui-%2324292e.svg?&style=for-the-badge&logo=mui&logoColor=white alt=mui style="margin-bottom: 5px;" />
+<a href="/" target="_blank">
+<img src=https://img.shields.io/badge/mui-%2324292e.svg?&style=for-the-badge&logo=mui&logoColor=skyblue alt=mui style="margin-bottom: 5px;" />
+</a>
+ <a href="/" target="_blank">
+<img src=https://img.shields.io/badge/chakra-ui-%2324292e.svg?&style=for-the-badge&logo=chakra-ui&logoColor=skyblue alt=chakra-ui style="margin-bottom: 5px;" />
+</a>
+<a href="/" target="_blank">
+<img src=https://img.shields.io/badge/javascript-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=yellow alt=javascript style="margin-bottom: 5px;" />
+</a>
+<a href="/" target="_blank">
+<img src=https://img.shields.io/badge/expressjs-%2324292e.svg?&style=for-the-badge&logo=express&logoColor=white alt=expressjs style="margin-bottom: 5px;" />
 </a>
 </div>  
 
