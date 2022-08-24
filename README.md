@@ -55,10 +55,13 @@ Hello , I’m a web developer who has ready to learn new technologies.
 <img src=https://img.shields.io/badge/mongodb-%2324292e.svg?&style=for-the-badge&logo=mongodb&logoColor=green alt=mongodb style="margin-bottom: 5px;" />
 </a>
 <a href="/" target="_blank">
-<img src=https://img.shields.io/badge/mui-%2324292e.svg?&style=for-the-badge&logo=mui&logoColor=skyblue alt=mui style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/mui-%231E77B5.svg?&style=for-the-badge&logo=mui&logoColor=skyblue alt=mui style="margin-bottom: 5px;" />
 </a>
  <a href="/" target="_blank">
 <img src=https://img.shields.io/badge/chakra-ui-%2324292e.svg?&style=for-the-badge&logo=chakra-ui&logoColor=skyblue alt=chakra-ui style="margin-bottom: 5px;" />
+</a>
+  <a href="/" target="_blank">
+<img src=https://img.shields.io/badge/node.js-%2324292e.svg?&style=for-the-badge&logo=node.js&logoColor=greeen alt=expressjs style="margin-bottom: 5px;" />
 </a>
 <a href="/" target="_blank">
 <img src=https://img.shields.io/badge/javascript-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=yellow alt=javascript style="margin-bottom: 5px;" />
