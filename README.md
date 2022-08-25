@@ -31,7 +31,7 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 
 ### About me
 
-- 🔭 I’m currently working on [mern-chat-app](https://talk--a--tive.vercel.app/)  
+- 🔭 I’m currently working on [mern-chat-app](https://talk-a-tive-arijit.netlify.app/)  
   
 
 - 🌱 I’m currently learning MERN Stack  
