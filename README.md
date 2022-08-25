@@ -1,10 +1,6 @@
 ## Hey 👋, I'm Arijit Patra!!  
   
-
-Hello , I’m a web developer who has ready to learn new technologies.
-  
-  
-
+I am a Web Developer and I'm very passionate and dedicated to my work.I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process from discussion and collaboration.
 - Passionate coder   
   
 
