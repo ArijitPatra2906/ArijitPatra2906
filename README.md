@@ -46,6 +46,12 @@ Hello , I’m a web developer who has ready to learn new technologies.
 <br/>  
 
 
+## My resume
+
+<div>
+<a href="https://github.com/ArijitPatra2906/Resume/blob/main/resume.pdf" target="_blank">See my resume</a>
+</div>
+
 ## Some of my skills
 <div >  
 <a href="https://reactjs.org/" target="_blank">
