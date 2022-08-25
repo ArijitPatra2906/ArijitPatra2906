@@ -27,7 +27,7 @@ Hello , I’m a web developer who has ready to learn new technologies.
 <img src=https://img.shields.io/badge/heyitsarijit-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=pink alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+<a href="mailto:patraarijit440@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/ArijitPatra-orange.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a> 
 
