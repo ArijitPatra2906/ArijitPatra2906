@@ -31,7 +31,7 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 
 ### About me
 
-- 🔭 I’m currently working on [Jeevmoksha Yoya](https://jeevmokshayoga.com/)  
+- 🔭 I’m currently working on [Jeevmoksha Yoya](https://jeevmokshayoga.com/)  [AmazonLite(https://amazonlite.vercel.app)
   
 
 - 🌱 I’m currently learning MERN Stack  
