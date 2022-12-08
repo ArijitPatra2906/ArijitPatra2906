@@ -29,18 +29,6 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 
 <br/>  
 
-### About me
-
-- 🔭 I’m currently working on <br/> [Jeevmoksha Yoya](https://jeevmokshayoga.com/) <br/>  [AmazonLite](https://amazonlite.vercel.app)
-  
-
-- 🌱 I’m currently learning MERN Stack  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-
-<br/>  
-
 
 ## My resume
 
