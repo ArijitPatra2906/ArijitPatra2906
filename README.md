@@ -33,7 +33,7 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 ## My resume
 
 <div>
-<a href="https://github.com/ArijitPatra2906/Resume/blob/main/resume.pdf" target="_blank">See my resume</a>
+<a href="https://github.com/ArijitPatra2906/Resume/blob/main/Arijit%20Patra%20resume.pdf" target="_blank">See my resume</a>
 </div>
 
 ## Some of my skills
