@@ -36,19 +36,19 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 <!-- <a href="https://github.com/ArijitPatra2906/Resume/blob/main/Arijit%20Patra%20resume.pdf" target="_blank">See my resume</a> -->
 <!-- </div> -->
 
-## Some of my skills
+## My most used technologies
 <div >  
 <a href="/#" target="_blank">
-<img src=https://img.shields.io/badge/react-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=skyblue alt=react style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB alt=react style="margin-bottom: 5px;" />
 </a>
 <a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/nextjs-%2324292e.svg?&style=for-the-badge&logo=next.js&logoColor=white alt=nextjs style="margin-bottom: 5px;" />
 </a>
 <a href="/#" target="_blank">
-<img src=https://img.shields.io/badge/bootstrap-violet.svg?&style=for-the-badge&logo=bootstrap&logoColor=white alt=bootstrap style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white alt=typescript style="margin-bottom: 5px;" />
 </a>
 <a href="/#" target="_blank">
-<img src=https://img.shields.io/badge/tailwindcss-%38b2ac.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white alt=tailwind style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/tailwind-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white alt=tailwind style="margin-bottom: 5px;" />
 </a>
 <a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/mongodb-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white alt=mongodb style="margin-bottom: 5px;" />
@@ -56,11 +56,11 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 <a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/mui-%231E77B5.svg?&style=for-the-badge&logo=mui&logoColor=skyblue alt=mui style="margin-bottom: 5px;" />
 </a>
- <a href="/#" target="_blank">
+<a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/chakra-ui-%2324292e.svg?&style=for-the-badge&logo=chakra-ui&logoColor=skyblue alt=chakra-ui style="margin-bottom: 5px;" />
 </a>
-  <a href="/#" target="_blank">
-<img src=https://img.shields.io/badge/node.js-green.svg?&style=for-the-badge&logo=node.js&logoColor=greeen alt=expressjs style="margin-bottom: 5px;" />
+<a href="/#" target="_blank">
+<img src=https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white alt=nodejs style="margin-bottom: 5px;" />
 </a>
 <a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/javascript-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=yellow alt=javascript style="margin-bottom: 5px;" />
