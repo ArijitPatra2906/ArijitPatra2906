@@ -16,7 +16,7 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 <a href="https://twitter.com/ar1stin" target="_blank">
 <img src=https://img.shields.io/badge/ar1stin-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/arijit-patra-a96025211" target="_blank">
+<a href="https://linkedin.com/in/arijitpatra2906" target="_blank">
 <img src=https://img.shields.io/badge/ArijitPatra-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/arijitpatra2906" target="_blank">
@@ -38,28 +38,34 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 
 ## Some of my skills
 <div >  
-<a href="https://reactjs.org/" target="_blank">
+<a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/react-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=skyblue alt=react style="margin-bottom: 5px;" />
 </a>
-<a href="/" target="_blank">
+<a href="/#" target="_blank">
+<img src=https://img.shields.io/badge/nextjs-%2324292e.svg?&style=for-the-badge&logo=next.js&logoColor=white alt=nextjs style="margin-bottom: 5px;" />
+</a>
+<a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/bootstrap-violet.svg?&style=for-the-badge&logo=bootstrap&logoColor=white alt=bootstrap style="margin-bottom: 5px;" />
 </a>
-<a href="/" target="_blank">
+<a href="/#" target="_blank">
+<img src=https://img.shields.io/badge/tailwindcss-%38b2ac.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white alt=tailwind style="margin-bottom: 5px;" />
+</a>
+<a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/mongodb-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white alt=mongodb style="margin-bottom: 5px;" />
 </a>
-<a href="/" target="_blank">
+<a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/mui-%231E77B5.svg?&style=for-the-badge&logo=mui&logoColor=skyblue alt=mui style="margin-bottom: 5px;" />
 </a>
- <a href="/" target="_blank">
+ <a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/chakra-ui-%2324292e.svg?&style=for-the-badge&logo=chakra-ui&logoColor=skyblue alt=chakra-ui style="margin-bottom: 5px;" />
 </a>
-  <a href="/" target="_blank">
+  <a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/node.js-green.svg?&style=for-the-badge&logo=node.js&logoColor=greeen alt=expressjs style="margin-bottom: 5px;" />
 </a>
-<a href="/" target="_blank">
+<a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/javascript-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=yellow alt=javascript style="margin-bottom: 5px;" />
 </a>
-<a href="/" target="_blank">
+<a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/expressjs-%2324292e.svg?&style=for-the-badge&logo=express&logoColor=white alt=expressjs style="margin-bottom: 5px;" />
 </a>
 </div>  
