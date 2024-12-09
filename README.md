@@ -57,9 +57,6 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 <img src=https://img.shields.io/badge/mui-%231E77B5.svg?&style=for-the-badge&logo=mui&logoColor=skyblue alt=mui style="margin-bottom: 5px;" />
 </a>
 <a href="/#" target="_blank">
-<img src=https://img.shields.io/badge/chakra-ui-%2324292e.svg?&style=for-the-badge&logo=chakra-ui&logoColor=skyblue alt=chakra-ui style="margin-bottom: 5px;" />
-</a>
-<a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white alt=nodejs style="margin-bottom: 5px;" />
 </a>
 <a href="/#" target="_blank">
