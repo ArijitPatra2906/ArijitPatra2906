@@ -1,12 +1,11 @@
-## Hey 👋, I'm Arijit Patra!!  
-  
+## Hey 👋, I'm Arijit Patra!!
+
 I am a Web Developer and I'm very passionate and dedicated to my work.I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process from discussion and collaboration.
-- Passionate coder   
-  
 
+- Passionate coder
 
+### Connect with me 📩
 
-### Connect with me 📩  
 <!-- <a href="https://github.com/ArijitPatra2906" target="_blank">
 <img src=https://img.shields.io/badge/Arijit Patra-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a> -->
@@ -25,10 +24,9 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 
 <a href="mailto:patraarijit440@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/ArijitPatra-orange.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
-</a> 
+</a>
 
-<br/>  
-
+<br/>
 
 ## My resume
 
@@ -37,6 +35,7 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 </div>
 
 ## My most used technologies
+
 <div >  
 <a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB alt=react style="margin-bottom: 5px;" />
@@ -65,27 +64,22 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 <a href="/#" target="_blank">
 <img src=https://img.shields.io/badge/expressjs-%2324292e.svg?&style=for-the-badge&logo=express&logoColor=white alt=expressjs style="margin-bottom: 5px;" />
 </a>
-</div>  
+</div>
 
-<br/>  
+<br/>
 
+## Github Stats
 
-## Github Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArijitPatra2906&show_icons=true&theme=radical)
 
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArijitPatra2906&show_icons=true&theme=radical)
-  
-  
   <br/>
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ArijitPatra2906&layout=compact&theme=radical)
 
-<br/>  
+<br/>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ArijitPatra2906&&style=flat-square)  
-  
+![Profile views counter](https://komarev.com/ghpvc/?username=ArijitPatra2906&&style=flat-square)
 
-<br/>  
-
+<br/>
 
 <br />
