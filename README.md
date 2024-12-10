@@ -30,11 +30,11 @@ I am a Web Developer and I'm very passionate and dedicated to my work.I have acq
 <br/>  
 
 
-<!-- ## My resume -->
+## My resume
 
-<!-- <div> -->
-<!-- <a href="https://github.com/ArijitPatra2906/Resume/blob/main/Arijit%20Patra%20resume.pdf" target="_blank">See my resume</a> -->
-<!-- </div> -->
+<div>
+<a href="https://github.com/ArijitPatra2906/ArijitPatra2906/blob/main/Resume.pdf" target="_blank">See my resume</a>
+</div>
 
 ## My most used technologies
 <div >  
