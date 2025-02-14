@@ -2,9 +2,9 @@
 
 I’m  a passionate and dedicated Software Developer with expertise in crafting exceptional digital solutions. I specialize in Web Design, Mobile Application Development, SaaS Development, User Experience Design (UED), and Web Development, bringing ideas to life through innovative and user-centric approaches.
 
-👨💻 Software Developer | Transforming ideas into scalable solutions with code
-💡 Passionate about problem-solving, clean architecture, and tech innovation
-🌱 Continuously learning | Open-source enthusiast | Collaborative team player
+👨💻 Software Developer | Transforming ideas into scalable solutions with code <br/>
+💡 Passionate about problem-solving, clean architecture, and tech innovation  <br/>
+🌱 Continuously learning | Open-source enthusiast | Collaborative team player  <br/>
 🚀 Building the future, one line of code at a time
 
 
