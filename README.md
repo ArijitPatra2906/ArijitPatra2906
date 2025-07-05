@@ -1,79 +1,74 @@
-## Hello 👋, I'm Arijit Patra!!
+<h1 align="center">Hello 👋, I'm Arijit Patra!</h1>
 
-👨‍💻 Software Developer | Transforming ideas into scalable solutions with code <br/>
-💡 Passionate about problem-solving, clean architecture, and tech innovation  <br/>
-🌱 Continuously learning | Open-source enthusiast | Collaborative team player  <br/>
-🚀 Building the future, one line of code at a time
-
----
-
-### 🔗 Let’s connect and geek out about all things tech! 📩
-
-<a href="https://codepen.com/arijitpatracp" target="_blank">
-<img src="https://img.shields.io/badge/ArijitPatra-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
-</a>  
-<a href="https://twitter.com/ar1stin" target="_blank">
-<img src="https://img.shields.io/badge/ar1stin-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
-</a>
-<a href="https://linkedin.com/in/arijitpatra2906" target="_blank">
-<img src="https://img.shields.io/badge/ArijitPatra-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://instagram.com/arijit_patra29" target="_blank">
-<img src="https://img.shields.io/badge/arijitpatra2906-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=pink" alt="instagram" />
-</a>
-<a href="mailto:patraarijit440@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/ArijitPatra-orange.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="mail" />
-</a>
+<p align="center">
+  💻 Software Developer & Problem Solver <br/>
+  🚀 Transforming ideas into scalable solutions <br/>
+  🌱 Open-source enthusiast | Continuous learner <br/>
+</p>
 
 ---
 
-## 📄 My Resume
+### 📬 Connect With Me
 
-<a href="https://github.com/ArijitPatra2906/ArijitPatra2906/blob/main/Resume.pdf" target="_blank">📝 View My Resume</a>
-
----
-
-## 🚀 Most Used Technologies
-
-<div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
-  <img src="https://img.shields.io/badge/nextjs-%2324292e.svg?&style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind" />
-  <img src="https://img.shields.io/badge/mongodb-green.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-  <img src="https://img.shields.io/badge/mui-%231E77B5.svg?&style=for-the-badge&logo=mui&logoColor=skyblue" alt="mui" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/javascript-%2324292e.svg?&style=for-the-badge&logo=javascript&logoColor=yellow" alt="javascript" />
-  <img src="https://img.shields.io/badge/expressjs-%2324292e.svg?&style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-</div>
+<p align="center">
+  <a href="mailto:patraarijit440@gmail.com"><img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arijitpatra2906"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/ar1stin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://instagram.com/arijit_patra29"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://codepen.com/arijitpatracp"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+### 🧾 My Resume
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/ArijitPatra2906/ArijitPatra2906/blob/main/Resume.pdf" target="_blank">📄 Click to view my resume</a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArijitPatra2906&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArijitPatra2906&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArijitPatra2906&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArijitPatra2906&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArijitPatra2906&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArijitPatra2906&theme=github_dark&no-frame=true&margin-w=5" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArijitPatra2906&theme=github-dark&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArijitPatra2906&&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ArijitPatra2906&style=flat-square" alt="Profile Views" />
 </p>
