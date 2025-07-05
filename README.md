@@ -84,4 +84,17 @@
 
 <br/>
 
+<h2>🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArijitPatra2906&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<h2>🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArijitPatra2906&theme=github_dark&no-frame=true&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+
 <br />
