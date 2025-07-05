@@ -10,7 +10,7 @@
 
 ### 📬 Connect With Me
 
-<p align="center">
+<p>
   <a href="mailto:patraarijit440@gmail.com"><img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/arijitpatra2906"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/ar1stin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -22,7 +22,7 @@
 
 ### 🧾 My Resume
 
-<p align="center">
+<p>
   <a href="https://github.com/ArijitPatra2906/ArijitPatra2906/blob/main/Resume.pdf" target="_blank">📄 Click to view my resume</a>
 </p>
 
