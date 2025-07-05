@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋, I'm Arijit Patra!</h1>
+<h1>Hello 👋, I'm Arijit Patra!</h1>
 
-<p align="center">
+<p>
   💻 Software Developer & Problem Solver <br/>
   🚀 Transforming ideas into scalable solutions <br/>
   🌱 Open-source enthusiast | Continuous learner <br/>
