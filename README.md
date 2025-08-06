@@ -4,6 +4,11 @@
   💻 Software Developer & Problem Solver <br/>
   🚀 Transforming ideas into scalable solutions <br/>
   🌱 Open-source enthusiast | Continuous learner <br/>
+  🧠 Experienced in full-stack web development (MERN, Next.js, AWS) <br/>
+  🔧 Passionate about clean architecture, performance optimization, and CI/CD <br/>
+  📈 Built production-grade apps with SSR, lazy loading & serverless architecture <br/>
+  🌍 Remote work ready | Collaborative, agile mindset <br/>
+  🔍 Loves debugging tricky issues & shipping polished user experiences <br/>
 </p>
 
 ---
